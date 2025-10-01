@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz, https://www.open-epg.com/files/unitedstates2.xml, https://www.open-epg.com/files/unitedkingdom1.xml, https://epgshare01.online/epgshare01/epg_ripper_RO1.xml, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_SG1.xml.gz, https://www.open-epg.com/files/unitedstates2.xml, https://www.open-epg.com/files/unitedkingdom1.xml, https://tvpass.org/epg.xml, https://epgshare01.online/epgshare01/epg_ripper_MY1.xml"
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTVLCOPT:http-user-agent=NSPlayer/12.00.9651.000
@@ -185,18 +185,22 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000110/1024.m3u8
 
 #EXTINF:-1 tvg-id="Flik.id" tvg-logo="https://assets.telkomsel.com/public/2025-01/channel--flik.png" group-title="📺🎶🎬HIBURAN",FLIK HD
-http://safetv.vip:8080/8gULQeqH3I/kbuahRdUJV/62242
+http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/62242.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9e9d9ca2bb814de9bfd73d7c19bfe190:e8c178a885d1a1e042ca34ec5ea3b938
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=530cb2294e474e1f910498363a8c3864:e70e6b093930453d1dc66ab0e259131a
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-id="HITS.id" tvg-name="HITS" tvg-logo="https://www.hitsnow.tv/assets/hits-logo-white.png" group-title="📺🎶🎬HIBURAN", HITS
-https://fta4-cdn-flr.visionplus.id/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
+https://atemeshield1-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/HitsHD/mpd/HitsHD.mpd
 
-
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTINF:-1 tvg-id="HITS.Now.id" tvg-logo="https://cms.cignal.tv/Upload/Images/Hits Now.png" group-title="📺🎶🎬HIBURAN", Hits Now
-http://geogersr.itilstrem.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
+https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd
+https://atemecdnbalancer-voe.sysln.id/live/eds/HITSNowHD/mpd/HITSNowHD.mpd
 
 #EXTINF:-1 tvg-id="IMC.id" tvg-logo="https://raw.githubusercontent.com/exelal-44/logotvindh/refs/heads/main/imc.png" group-title="📺🎶🎬HIBURAN",IMC INDONESIA MOVIE CHANNEL
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -490,27 +494,6 @@ https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.aparatchi.com/images/chanells-logo/persiana/persiana-sports.svg", Persiana Sports
 https://spstr.abntv.live/hls/psstream.m3u8
 
-#EXTINF:-1 tvg-id="Digi.Sport.1.ro" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/digi-sport-1-ro.png" group-title="⚽OLAHRAGA", DIGI SPORT 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
-
-#EXTINF:-1 tvg-id="Digi.Sport.2.ro" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/digi-sport-2-ro.png" group-title="⚽OLAHRAGA", DIGI SPORT 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://ultra2.falconx.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
-
-#EXTINF:-1 tvg-id="Digi.Sport.3.ro" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/digi-sport-3-ro.png" group-title="⚽OLAHRAGA", DIGI SPORT 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://ultra2.falconx.cfd/kuk3/usergendx0slfk9QssDx9lgxlsdmqrnd.m3u8
-
-#EXTINF:-1 tvg-id="Digi.Sport.4.ro" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/romania/digi-sport-4-ro.png" group-title="⚽OLAHRAGA", DIGI SPORT 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://cool-tv.net/
-https://jardo111.jardomany.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
-
-
 #EXTINF:-1 tvg-id="SPOTV.id" tvg-logo="https://contentcdn.visionplus.id/crop/300/plain/https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="⚽OLAHRAGA",SPOTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -608,4 +591,300 @@ https://tglmp03.akamaized.net/out/v1/151218455da04a47be327aa14be3e5cb/manifest.m
 #KODIPROP:inputstream.adaptive.license_key=db646b3742ba42718a28436a1f401aa8:75a545066954b9b7fafa96d72a844e00
 https://tglmp04.akamaized.net/out/v1/00ac947de8174a54bd0f52226115d1db/manifest.mpd
 
+#EXTINF:-1 tvg-id="hbo-eastern-feed" tvg-name="HBO Eastern Feed" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/hbo-us.png" png" group-title="🇺🇸UNITED STATES",HBO Eastern Feed
+https://e4.thetvapp.to/hls/HBOEast/tracks-v2a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="hbo-2-eastern-feed" tvg-name="HBO 2 Eastern Feed" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/hd/hbo-2-hd-us.png" png" group-title="🇺🇸UNITED STATES",HBO 2 Eastern Feed
+https://e4.thetvapp.to/hls/HBO2East/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="hbo-comedy-hd-east" tvg-name="HBO Comedy East" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/hbo-comedy-hz-us.png" png" group-title="🇺🇸UNITED STATES",HBO Comedy East
+https://e4.thetvapp.to/hls/HBOComedyEast/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="hbo-family-eastern-feed" tvg-name="HBO Family Eastern Feed" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/hbo-family-hz-us.png" png" group-title="🇺🇸UNITED STATES",HBO Family Eastern Feed
+https://e4.thetvapp.to/hls/HBOFamilyEast/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="fx-movie-channel" tvg-name="FX Movie Channel" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/fxm-movie-channel-us.png" png" group-title="🇺🇸UNITED STATES",FX Movie Channel
+https://e4.thetvapp.to/hls/FXMovieChannel/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="fx-networks-east-coast" tvg-name="FX Networks East Coast" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/fx-us.png" png" group-title="🇺🇸UNITED STATES",FX Networks East Coast
+https://e4.thetvapp.to/hls/FXEast/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="fxx-usa-eastern" tvg-name="FXX USA Eastern" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/fxx-us.png" png" group-title="🇺🇸UNITED STATES",FXX USA Eastern
+https://e4.thetvapp.to/hls/FXXEast/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="fyi-usa-eastern" tvg-name="FYI USA Eastern" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/fyi-us.png" png" group-title="🇺🇸UNITED STATES",FYI USA Eastern
+https://e4.thetvapp.to/hls/FYIEast/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="usa-network-east-feed" tvg-name="USA Network East Feed" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/usa-us.png" png" group-title="🇺🇸UNITED STATES",USA Network East Feed
+https://e4.thetvapp.to/hls/USANetworkEast/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/hd/hbo-signature-hd-us.png" png" group-title="🇺🇸UNITED STATES",HBO Signature (HBO 3) Eastern
+https://e4.thetvapp.to/hls/HBOSignatureEast/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="hbo-zone-hd-east" tvg-name="HBO Zone East" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/hd/hbo-zone-hd-us.png" png" group-title="🇺🇸UNITED STATES",HBO Zone East
+https://e4.thetvapp.to/hls/HBOZoneEast/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ae-us-eastern-feed" tvg-name="A&E US Eastern Feed" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/hd/a-and-e-hd-us.png" png" group-title="🇺🇸UNITED STATES",A&E US Eastern Feed
+https://e4.thetvapp.to/hls/AEEast/tracks-v2a1/mono.m3u8
+
+https://e4.thetvapp.to/hls/abc-kabc-los-angeles-ca/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="abc-kabc-los-angeles-ca" tvg-name="ABC (KABC) Los Angeles" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-kgo-us.png" png" group-title="🇺🇸UNITED STATES",ABC (KABC) Los Angeles
+#EXTINF:-1 tvg-id="abc-wabc-new-york-ny" tvg-name="ABC (WABC) New York, NY" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/abc-7-kgo-us.png" png" group-title="🇺🇸UNITED STATES",ABC (WABC) New York, NY
+https://e4.thetvapp.to/hls/WABCDT1/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="acc-network" tvg-name="ACC Network" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/acc-network-us.png" png" group-title="🇺🇸UNITED STATES",ACC Network ESPN
+https://e4.thetvapp.to/hls/ACCNetwork/tracks-v2a1/mono.m3u8
+
+https://e4.thetvapp.to/hls/altitude-sports-denver/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="altitude-sports-denver" tvg-name="Altitude Sports Denver" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/altitude-sports-us.png" png" group-title="🇺🇸UNITED STATES",Altitude Sports Denver
+https://e4.thetvapp.to/hls/altitude-sports-denver/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="amc-eastern-feed" tvg-name="AMC Eastern Feed" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/amc-us.png" png" group-title="🇺🇸UNITED STATES",AMC Eastern Feed
+https://e4.thetvapp.to/hls/AMCEast/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="american-heroes-channel" tvg-name="American Heroes Channel" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/american-heroes-channel-us.png" png" group-title="🇺🇸UNITED STATES",American Heroes Channel
+https://e4.thetvapp.to/hls/AmericanHeroesChannel/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="animal-planet-us-east" tvg-name="Animal Planet US East" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/animal-planet-us.png" png" group-title="🇺🇸UNITED STATES",Animal Planet US East
+https://e4.thetvapp.to/hls/AnimalPlanetEast/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="bbc-america-east" tvg-name="BBC America East" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/bbc-america-us.png" png" group-title="🇺🇸UNITED STATES",BBC America East
+https://e4.thetvapp.to/hls/BBCAmericaEast/tracks-v2a1/mono.m3u8
+https://e4.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="bbc-news-north-america-hd" tvg-name="BBC News North America" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/bbc-america-hz-us.png" png" group-title="🇺🇸UNITED STATES",BBC News North America
+https://e4.thetvapp.to/hls/BBCWorldNewsNorthAmerica/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="bet-eastern-feed" tvg-name="BET Eastern Feed" tvg-logo=https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/bet-us.png" png" group-title="🇺🇸UNITED STATES"",BET Eastern Feed
+https://e4.thetvapp.to/hls/BETEast/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="bet-her" tvg-name="BET Her" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/bet-her-us.png" png" group-title="🇺🇸UNITED STATES",BET Her
+https://e4.thetvapp.to/hls/BETHerEast/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="big-ten-network" tvg-name="Big Ten Network" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/big-ten-network-us.png" png" group-title="🇺🇸UNITED STATES",Big Ten Network
+https://e4.thetvapp.to/hls/BTN/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="boomerang" tvg-name="Boomerang" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/boomerang-us.png" png" group-title="🇺🇸UNITED STATES",Boomerang
+https://e4.thetvapp.to/hls/Boomerang/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="bravo-usa-eastern-feed" tvg-name="Bravo USA Eastern Feed" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/bravo-us.png" png" group-title="🇺🇸UNITED STATES",Bravo USA Eastern Feed
+https://e4.thetvapp.to/hls/BravoEast/tracks-v2a1/mono.m3u8
+
+ttps://github.com/tv-logo/tv-logos/raw/main/countries/united-states/c-span-1-us.png" png" group-title="🇺🇸UNITED STATES",C-SPAN
+https://e4.thetvapp.to/hls/CSPAN/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="cspan-2" tvg-name="C-SPAN 2" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/c-span-2-us.png" png" group-title="🇺🇸UNITED STATES",C-SPAN 2
+https://e4.thetvapp.to/hls/CSPAN2/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="cartoon-network-usa-eastern-feed" tvg-name="Cartoon Network USA Eastern Feed" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/cartoon-network-us.png" png" group-title="🇺🇸UNITED STATES",Cartoon Network USA Eastern Feed
+https://e4.thetvapp.to/hls/CartoonNetworkEast/tracks-v2a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-id="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/cinemax-us.png" png" group-title="🇺🇸UNITED STATES",Cinemax Eastern Feed
+https://e4.thetvapp.to/hls/CinemaxEast/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="cmt-us-eastern-feed" tvg-name="CMT US Eastern Feed" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/cmt-color-us.png" png" group-title="🇺🇸UNITED STATES",CMT US Eastern Feed
+https://e4.thetvapp.to/hls/CMTEast/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="comedy-central-us-eastern-feed" tvg-name="Comedy Central (US) Eastern Feed" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/comedy-central-us.png" png" group-title="🇺🇸UNITED STATES",Comedy Central (US) Eastern Feed
+https://e4.thetvapp.to/hls/ComedyCentralEast/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="crime-investigation-network-usa-hd" tvg-name="Crime & Investigation Network USA" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/crime-and-investigation-us.png" png" group-title="🇺🇸UNITED STATES",Crime & Investigation Network USA
+https://e4.thetvapp.to/hls/CrimePlusInvestigation/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="destination-america" tvg-name="Destination America" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/destination-america-us.png" png" group-title="🇺🇸UNITED STATES",Destination America
+https://e4.thetvapp.to/hls/DestinationAmerica/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="discovery-channel-us-eastern-feed" tvg-name="Discovery Channel (US) Eastern Feed" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/discovery-channel-icon-2-us.png" png" group-title="🇺🇸UNITED STATES",Discovery Channel (US) Eastern Feed
+https://e4.thetvapp.to/hls/DiscoveryChannelEast/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="discovery-family-channel" tvg-name="Discovery Family Channel" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/discovery-family-us.png" png" group-title="🇺🇸UNITED STATES",Discovery Family Channel
+https://e4.thetvapp.to/hls/DiscoveryFamily/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="discovery-life-channel" tvg-name="Discovery Life Channel" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/discovery-life-us.png" png" group-title="🇺🇸UNITED STATES",Discovery Life Channel
+https://e4.thetvapp.to/hls/DiscoveryLife/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="disney-eastern-feed" tvg-name="Disney Eastern Feed" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/disney-channel-us.png" png" group-title="🇺🇸UNITED STATES",Disney Eastern Feed
+https://e4.thetvapp.to/hls/DisneyChannelEast/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="disney-junior-usa-east" tvg-name="Disney Junior USA East" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/disney-jr-us.png" png" group-title="🇺🇸UNITED STATES",Disney Junior USA East
+https://e4.thetvapp.to/hls/DisneyJuniorEast/tracks-v2a1/mono.m3u8
+
+https://e4.thetvapp.to/hls/DisneyXDEast/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="disney-xd-usa-eastern-feed" tvg-name="Disney XD USA Eastern Feed" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/disney-xd-us.png" png" group-title="🇺🇸UNITED STATES",Disney XD USA Eastern Feed
+https://e4.thetvapp.to/hls/DisneyXDEast/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="e-entertainment-usa-eastern-feed" tvg-name="E! Entertainment USA Eastern Feed" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/e-entertainment-us.png" png" group-title="🇺🇸UNITED STATES",E! Entertainment USA Eastern Feed
+https://e4.thetvapp.to/hls/EEast/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="espn" tvg-name="ESPN" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/espn-2-us.png" png" group-title="🇺🇸UNITED STATES",ESPN
+https://e4.thetvapp.to/hls/ESPN/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="espn-deportes" tvg-name="ESPN Deportes" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/espn-deportes-us.png" png" group-title="🇺🇸UNITED STATES",ESPN Deportes
+https://e4.thetvapp.to/hls/espn-deportes/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="espn-u" tvg-name="ESPN U" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/espn-u-us.png" png" group-title="🇺🇸UNITED STATES",ESPN U
+https://e4.thetvapp.to/hls/ESPNU/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="espn2" tvg-name="ESPN2" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/espn-2-us.png" png" group-title="🇺🇸UNITED STATES",ESPN2
+https://e4.thetvapp.to/hls/ESPN2/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="fox-sports-1" tvg-name="Fox Sports 1" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/fox-sports-1-us.png" png" group-title="🇺🇸UNITED STATES",Fox Sports 1
+https://e4.thetvapp.to/hls/FoxSports1/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="fox-sports-2" tvg-name="Fox Sports 2" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/fox-sports-2-us.png" png" group-title="🇺🇸UNITED STATES",Fox Sports 2
+https://e4.thetvapp.to/hls/FoxSports2/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="freeform-east-feed" tvg-name="Freeform East Feed" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/freeform-us.png" png" group-title="🇺🇸UNITED STATES",Freeform East Feed
+https://e4.thetvapp.to/hls/FreeformEast/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="fuse-tv-eastern-feed" tvg-name="FUSE TV Eastern feed" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/fuse-us.png" png" group-title="🇺🇸UNITED STATES",FUSE TV Eastern feed
+https://e4.thetvapp.to/hls/FuseEast/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="hallmark-eastern-feed" tvg-name="Hallmark Eastern Feed" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/hallmark-channel-us.png" png" group-title="🇺🇸UNITED STATES",Hallmark Eastern Feed
+https://e4.thetvapp.to/hls/HallmarkChannelEast/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="hallmark-family-hd" tvg-name="Hallmark Family" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/hallmark-family-us.png" png" group-title="🇺🇸UNITED STATES",Hallmark Family
+https://e4.thetvapp.to/hls/HallmarkDrama/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="hallmark-mystery-eastern-hd" tvg-name="Hallmark Mystery Eastern" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/hallmark-mystery-us.png" png" group-title="🇺🇸UNITED STATES",Hallmark Mystery Eastern
+https://e4.thetvapp.to/hls/HallmarkMoviesMysteriesEast/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="hgtv-usa-eastern-feed" tvg-name="HGTV USA Eastern Feed" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/hgtv-us.png" png" group-title="🇺🇸UNITED STATES",HGTV USA Eastern Feed
+https://e4.thetvapp.to/hls/HGTVEast/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="history-channel-us-eastern-feed" tvg-name="History Channel US Eastern Feed" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/history-channel-us.png" png" group-title="🇺🇸UNITED STATES",History Channel US Eastern Feed
+https://e4.thetvapp.to/hls/HistoryEast/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="hln" tvg-name="HLN" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/hln-us.png" png" group-title="🇺🇸UNITED STATES",HLN
+https://e4.thetvapp.to/hls/HLN/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="independent-film-channel-us" tvg-name="Independent Film Channel US" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/ifc-us.png" png" group-title="🇺🇸UNITED STATES",Independent Film Channel US
+https://e4.thetvapp.to/hls/IFCEast/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="investigation-discovery-usa-eastern" tvg-name="Investigation Discovery USA Eastern" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/investigation-discovery-us.png" png" group-title="🇺🇸UNITED STATES",Investigation Discovery USA Eastern
+https://e4.thetvapp.to/hls/InvestigationDiscoveryEast/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="ion-eastern-feed" tvg-name="ION Eastern Feed" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/ion-television-us.png" png" group-title="🇺🇸UNITED STATES",ION Eastern Feed
+https://e4.thetvapp.to/hls/IONTVEast/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="lifetime-movies-east" tvg-name="Lifetime Movies East" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/lifetime-movies-us.png" png" group-title="🇺🇸UNITED STATES",Lifetime Movies East
+https://e4.thetvapp.to/hls/LifetimeMoviesEast/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="lifetime-network-us-eastern-feed" tvg-name="Lifetime Network US Eastern Feed" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/lifetime-us.png" png" group-title="🇺🇸UNITED STATES",Lifetime Network US Eastern Feed
+https://e4.thetvapp.to/hls/LifetimeEast/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="metv-toons-wjlp2-new-jersey" tvg-name="MeTV Toons (WJLP2) New Jersey" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/me-tv-toons-us.png" png" group-title="🇺🇸UNITED STATES",MeTV Toons (WJLP2) New Jersey
+https://e4.thetvapp.to/hls/metv-toons/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="metv-wjlp-new-jerseynew-york" tvg-name="MeTV Wjlp New Jerseynew York" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/me-tv-us.png" png" group-title="🇺🇸UNITED STATES",MeTV Wjlp New Jerseynew York
+https://e4.thetvapp.to/hls/metv-wjlp-new-jerseynew-york/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="moremax-eastern" tvg-name="MoreMax Eastern" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/585px-MoreMax_Logo.svg.png" png" group-title="🇺🇸UNITED STATES",MoreMax Eastern
+https://e4.thetvapp.to/hls/MoreMaxEast/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="moviemax-max-6-east" tvg-name="MovieMax (Max 6) East" tvg-logo="https://www.tvinsider.com/wp-content/uploads/2023/08/movie-max.png" png" group-title="🇺🇸UNITED STATES",MovieMax (Max 6) East
+https://e4.thetvapp.to/hls/MovieMaxEast/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="national-geographic-us-eastern" tvg-name="National Geographic US Eastern" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/national-geographic-us.png" png" group-title="🇺🇸UNITED STATES",National Geographic US Eastern
+https://e4.thetvapp.to/hls/NationalGeographicEast/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="national-geographic-wild" tvg-name="National Geographic Wild" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/nat-geo-wild-us.png" png" group-title="🇺🇸UNITED STATES",National Geographic Wild
+https://e4.thetvapp.to/hls/NationalGeographicWildEast/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="nick-jr-east" tvg-name="Nick Jr. East" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/nick-jr-us.png" png" group-title="🇺🇸UNITED STATES",Nick Jr. East
+https://e4.thetvapp.to/hls/NickJrEast/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="nickelodeon-usa-east-feed" tvg-name="Nickelodeon USA East Feed" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/nickelodeon-us.png" png" group-title="🇺🇸UNITED STATES",Nickelodeon USA East Feed
+https://e4.thetvapp.to/hls/NickelodeonEast/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="nicktoons-east" tvg-name="Nicktoons East" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/nick-toons-us.png" png" group-title="🇺🇸UNITED STATES",Nicktoons East
+https://e4.thetvapp.to/hls/NicktoonsEast/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="oxygen-eastern-feed" tvg-name="Oxygen Eastern Feed" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/oxygen-us.png" png" group-title="🇺🇸UNITED STATES",Oxygen Eastern Feed
+https://e4.thetvapp.to/hls/OxygenEast/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="reelzchannel" tvg-name="ReelzChannel" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/reelz-us.png" png" group-title="🇺🇸UNITED STATES",ReelzChannel
+
+#EXTINF:-1 tvg-id="science" tvg-name="Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Science_Channel_2016.png/250px-Science_Channel_2016.png" png" group-title="🇺🇸UNITED STATES",Science
+https://e4.thetvapp.to/hls/Science/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="sec-network" tvg-name="SEC Network" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/sec-network-us.png" png" group-title="🇺🇸UNITED STATES",SEC Network
+https://e4.thetvapp.to/hls/SECN/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="paramount-with-showtime-eastern-feed" tvg-name="Showtime Eastern Feed" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/showtime-us.png" png" group-title="🇺🇸UNITED STATES",Showtime Eastern Feed
+https://e4.thetvapp.to/hls/ShowtimeEast/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="showtime-2-eastern" tvg-name="Showtime 2 Eastern" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/showtime-2-us.png" png" group-title="🇺🇸UNITED STATES",Showtime 2 Eastern
+https://e4.thetvapp.to/hls/Showtime2East/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="starz-eastern" tvg-name="Starz Eastern" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/start-tv-us.png" png" group-title="🇺🇸UNITED STATES",Starz Eastern
+https://e4.thetvapp.to/hls/StarzEast/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="sundancetv-usa-east" tvg-name="SundanceTV USA East" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/sundance-tv-us.png" png" group-title="🇺🇸UNITED STATES",SundanceTV USA East
+https://e4.thetvapp.to/hls/SundanceTVEast/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="syfy-eastern-feed" tvg-name="Syfy Eastern Feed" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/syfy-hz-us.png" png" group-title="🇺🇸UNITED STATES",Syfy Eastern Feed
+https://e4.thetvapp.to/hls/SyfyEast/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="tbs-east" tvg-name="TBS East" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/tbs-us.png" png" group-title="🇺🇸UNITED STATES",TBS East
+https://e4.thetvapp.to/hls/TBSEast/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="teennick-eastern" tvg-name="TeenNick Eastern" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/teen-nick-us.png" png" group-title="🇺🇸UNITED STATES",TeenNick Eastern
+https://e4.thetvapp.to/hls/TeenNickEast/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="telemundo-eastern-feed" tvg-name="Telemundo Eastern Feed" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/telemundo-us.png" png" group-title="🇺🇸UNITED STATES",Telemundo Eastern Feed
+https://e4.thetvapp.to/hls/TelemundoEast/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="tlc-usa-eastern" tvg-name="TLC USA Eastern" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/tlc-us.png" png" group-title="🇺🇸UNITED STATES",TLC USA Eastern
+https://e4.thetvapp.to/hls/TLCEast/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="tmc-us-eastern-feed" tvg-name="TMC (US) Eastern Feed" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/the-movie-channel-us.png" png" group-title="🇺🇸UNITED STATES",TMC (US) Eastern Feed
+https://e4.thetvapp.to/hls/TheMovieChannelEast/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="tnt-eastern-feed" tvg-name="TNT Eastern Feed" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/tnt-us.png" png" group-title="🇺🇸UNITED STATES",TNT Eastern Feed
+https://e4.thetvapp.to/hls/TNTEast/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="turner-classic-movies-usa" tvg-name="Turner Classic Movies USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/250px-TCM_2021.svg.png" png" group-title="🇺🇸UNITED STATES",Turner Classic Movies USA
+https://e4.thetvapp.to/hls/TCMEast/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="tv-land-eastern" tvg-name="TV Land Eastern" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/tv-land-us.png" png" group-title="🇺🇸UNITED STATES",TV Land Eastern
+https://e4.thetvapp.to/hls/tv-land-eastern/tracks-v2a1/mono.m3u8
+
+
+https://e4.thetvapp.to/hls/UniversalKidsEast/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="universal-kids" tvg-name="Universal Kids" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/universal-kids-us.png" png" group-title="🇺🇸UNITED STATES",Universal Kids
+https://e4.thetvapp.to/hls/UniversalKidsEast/tracks-v2a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="univision-eastern-feed" tvg-name="Univision Eastern Feed" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/us-local/univision/univision-hz-us.png" png" group-title="🇺🇸UNITED STATES",Univision Eastern Feed
+https://e4.thetvapp.to/hls/UnivisionEast/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="vh1-eastern-feed" tvg-name="VH1 Eastern Feed" tvg-logo="https://github.com/tv-logo/tv-logos/raw/main/countries/united-states/vh1-us.png" png" group-title="🇺🇸UNITED STATES",VH1 Eastern Feed
+https://e4.thetvapp.to/hls/VH1East/tracks-v2a1/mono.m3u8
