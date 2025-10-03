@@ -506,6 +506,9 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000160/1024.m3u8
 #KODIPROP:inputstream.adaptive.license_key=
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 
+#EXTINF:-1 tvg-id="W-Sport.my" tvg-logo="https://resizer-acm.eco.astro.com.my/tr:w-64,q:75/https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/503_144.png" group-title="⚽OLAHRAGA", W Sport
+http://wanjiatv.net/ydmt/smrt.php?playurl=http://66.90.99.154:8278/go_assp5/playlist.m3u8
+
 #EXTINF:-1 tvg-id="FunPlanet.id" tvg-logo="https://i.postimg.cc/2yTHnG0z/funplanetz.jpg" group-title="👧ANAK-ANAK",FUN PLANET 
 http://geogersr.itilstrem.workers.dev/https://cdn10jtedge.indihometv.com/atm/DASH/indikids/manifest.mpd
 
