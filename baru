@@ -184,9 +184,6 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000037/1024.m3u8
 #EXTINF:-1 tvg-id="Rock.Entertainment.id" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-asia/rock-entertainment-asi.png" group-title="📺🎶🎬HIBURAN", ROCK ENTERTAINMENT
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000110/1024.m3u8
 
-#EXTINF:-1 tvg-id="Flik.id" tvg-logo="https://assets.telkomsel.com/public/2025-01/channel--flik.png" group-title="📺🎶🎬HIBURAN",FLIK HD
-http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/62242.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=530cb2294e474e1f910498363a8c3864:e70e6b093930453d1dc66ab0e259131a
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
