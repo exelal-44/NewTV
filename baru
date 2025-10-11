@@ -139,7 +139,12 @@ https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
 https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w2052541675.m3u8
 
 
-
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=62f0fb29203c45419e2ea683c5c365e6:10b227a6ea7d65628f025e41318b927c
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Entertainment.id" tvg-logo="https://www.visionplus.id/images/repository/155/438155-SNAPSHOT-l.png" group-title="HIBURAN",ENT
+https://d2tjypxxy769fn.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd
 
 #EXTINF:-1 tvg-id="AllPlay.Ent.id" tvg-name="" tvg-logo="https://assets.telkomsel.com/public/2025-01/channel--allplayent.png" group-title="HIBURAN",ALL PLAY ENT
 http://geogersr.itilstrem.workers.dev/https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
