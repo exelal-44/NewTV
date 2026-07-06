@@ -240,24 +240,24 @@ http://s.rocketdns.info:8080/live/monstercable/Dq6jjknxCr/2401.ts
 
 #EXTINF:-1  tvg-id="ESPN.br" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/ESPN-logo-1536x922.png" group-title="OLAHRAGA, ESPN 1 BR
 http://46.151.196.223:14433
-#EXTINF:-1  tvg-id="ESPN.2.br" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/ESPN-logo-1536x922.png" group-title="OLAHRAGA, ESPN 2 BR
+#EXTINF:-1  tvg-id="ESPN.2.br" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/ESPN-logo-1536x922.png" group-title="OLAHRAGA", ESPN 2 BR
 http://46.151.196.223:14438
-#EXTINF:-1  tvg-id="ESPN.3.br" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/ESPN-logo-1536x922.png" group-title="OLAHRAGA, ESPN 3 BR
+#EXTINF:-1  tvg-id="ESPN.3.br" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/ESPN-logo-1536x922.png" group-title="OLAHRAGA", ESPN 3 BR
 http://46.151.196.223:14444/
-#EXTINF:-1  tvg-id="ESPN.4.br" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/ESPN-logo-1536x922.png" group-title="OLAHRAGA, ESPN 4 BR
+#EXTINF:-1  tvg-id="ESPN.4.br" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/ESPN-logo-1536x922.png" group-title="OLAHRAGA", ESPN 4 BR
 http://46.151.196.223:14450
-#EXTINF:-1  tvg-id="ESPN.5.br" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/ESPN-logo-1536x922.png" group-title="OLAHRAGA, ESPN 5 BR
+#EXTINF:-1  tvg-id="ESPN.5.br" tvg-logo="https://www.sportspro.com/wp-content/uploads/2023/03/ESPN-logo-1536x922.png" group-title="OLAHRAGA", ESPN 5 BR
 http://46.151.196.223:14457
 
-#EXTINF:-1 tvg-id="DAZN.1.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/dazn-de.png" group-title="OLAHRAGA,DAZN 1 HD
+#EXTINF:-1 tvg-id="DAZN.1.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/dazn-de.png" group-title="OLAHRAGA",DAZN 1 HD
 http://46.151.196.223:14425
-#EXTINF:-1 tvg-id="DAZN.2.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/dazn-de.png" group-title="OLAHRAGA,DAZN 2 HD
+#EXTINF:-1 tvg-id="DAZN.2.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/dazn-de.png" group-title="OLAHRAGA",DAZN 2 HD
 http://46.151.196.223:14421
-#EXTINF:-1 tvg-id="DAZN.3.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/dazn-de.png" group-title="OLAHRAGA,DAZN 3 HD
+#EXTINF:-1 tvg-id="DAZN.3.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/dazn-de.png" group-title="OLAHRAGA",DAZN 3 HD
 http://46.151.196.223:14422
-#EXTINF:-1 tvg-id="DAZN.4.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/dazn-de.png" group-title="OLAHRAGA,DAZN 4 HD
+#EXTINF:-1 tvg-id="DAZN.4.pt" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/germany/dazn-de.png" group-title="OLAHRAGA",DAZN 4 HD
 http://46.151.196.223:14423
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/250px-Setanta-logo.jpg" group-title="OLAHRAGA, SETANTA GEORGIA 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/250px-Setanta-logo.jpg" group-title="OLAHRAGA", SETANTA GEORGIA 1
 http://195.201.243.254/setanta1/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/250px-Setanta-logo.jpg" group-title="OLAHRAGA, SETANTA GEORGIA 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/250px-Setanta-logo.jpg" group-title="OLAHRAGA", SETANTA GEORGIA 2
 http://195.201.243.254/setanta2/index.m3u8
